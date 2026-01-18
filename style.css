@@ -1,0 +1,44 @@
+#container{
+        height: 50px;
+        background-color: white;
+        display: block;
+        text-align: center;
+        
+}
+
+h1{
+    color: rgb(77, 77, 201);
+}
+
+
+body {
+    background-color: blue;
+
+}
+
+#one{
+    color: WHITE;
+    text-align: center;
+}
+table {
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    height: 100px;
+    width: 900px;
+    border: 2px;
+    
+    padding-left: 500px;
+   
+    text-align: center;
+
+}
+
+
+footer {
+    font-size: 20px;
+    color: white;
+   text-align: center;
+
+    
+}
